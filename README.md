@@ -21,4 +21,4 @@ Content:
    - pruned_tree and tree_sorted are tree data from the downstream analyses of landmark data resulting from the inclusion of phylogenomic data
    - ClassifierCohab.csv and ClassifierLabel.csv files are useful for downstream analyses focusing on cohabiting vs. solo louse specimens or for including labels.
      
-Zenodo: DOI 10.5281/zenodo.7557419
+Zenodo: DOI 10.5281/zenodo.8102696
