@@ -4,7 +4,7 @@ Authors: Stanislav Kolencik, Edward L. Stanley, Aswaj Punnath, Avery R. Grant, J
 2024, _Proceedings B_
 
 Summary:
-- nanoCT scan data were used to evaluate the variability between 89 feather louse specimens from four ecomorph groups (body, generalist, head, and wing)
+- nanoCT scan data were used to evaluate the morphological variability between 89 feather louse specimens from four ecomorph groups (body, generalist, head, and wing)
 - specific morphological characters were quantified (head shape, proportional volume of mandibular muscularization, limb length)
 - data were evaluated by statistical methods and geometric morphometric analysis, including phylogenomic data
 - possible effects of louse-louse competition were explored
